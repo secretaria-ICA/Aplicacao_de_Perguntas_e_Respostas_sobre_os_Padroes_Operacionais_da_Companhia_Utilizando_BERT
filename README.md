@@ -1,13 +1,13 @@
 # Aplicação de Perguntas e Respostas sobre os padrões operacionais da companhia utilizando BERT (Pre-Training of Deep Biredictional Transformers For Language Understanding)
 
 #### Aluno: [André Roberto Antunes Paes](https://github.com/arobertoap).
-#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/link_do_github).
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o arquivo ReadMe](https://github.com/arobertoap/TCC_BI_Master_Publico)
+- [Link para o arquivo Readme](https://github.com/arobertoap/TCC_BI_Master_Publico)
 - [Link para o código](https://github.com/arobertoap/TCC_BI_Master) (o repositório é privado e só pode ser acessado com a autorização do autor).
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
