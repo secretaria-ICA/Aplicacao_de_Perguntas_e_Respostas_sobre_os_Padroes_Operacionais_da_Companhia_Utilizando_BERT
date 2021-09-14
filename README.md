@@ -1,4 +1,4 @@
-# Aplicação de Perguntas e Respostas sobre os padrões operacionais da companhia utilizando BERT (Pre-Training of Deep Biredictional Transformers For Language Understanding)
+# Aplicação de Perguntas e Respostas sobre os Padrões Operacionais da Companhia Utilizando BERT (Pre-Training of Deep Biredictional Transformers For Language Understanding)
 
 #### Aluno: [André Roberto Antunes Paes](https://github.com/arobertoap).
 #### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
